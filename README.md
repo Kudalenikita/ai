@@ -6,7 +6,7 @@ Steps to Setup the Project -
 3) install mongodb for desktop localhost, mongosh and download mongodb compass and install it
 
 1) Download the Project
-Clone from github using command - git clone https://github.com/Nexolve-Technologies-India/Airlift-College-Project.git OR Extract Zip File
+
 2) open cmd prompt and run code: mongod --port 8848
 3) open another cmd prompt and run  code: mongosh --port 8848
 4) after mongod db server is started, open the extracted project in visual studio code
@@ -19,6 +19,7 @@ Clone from github using command - git clone https://github.com/Nexolve-Technolog
 
 11) Project setup will be completed and you can test the application now
    
+
 
 
 
